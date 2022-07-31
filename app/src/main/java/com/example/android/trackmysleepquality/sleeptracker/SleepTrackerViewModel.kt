@@ -158,6 +158,5 @@ class SleepTrackerViewModel(
                         database.clear()
                 }
         }
-
 }
 
